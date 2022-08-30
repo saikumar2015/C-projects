@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656997543 source:c:\users\sai kumar\desktop\c programming\multiplication_table_upto_a_range\main.c
+	<stdio.h>
+	<stdlib.h>
+

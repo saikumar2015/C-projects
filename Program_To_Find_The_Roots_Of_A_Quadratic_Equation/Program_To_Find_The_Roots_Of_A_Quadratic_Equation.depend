@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656746169 source:c:\users\sai kumar\desktop\c programming\program_to_find_the_roots_of_a_quadratic_equation\main.c
+	<stdio.h>
+	<stdlib.h>
+

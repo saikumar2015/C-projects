@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657000311 source:c:\users\sai kumar\desktop\c programming\program_to_count_no_of_digits\main.c
+	<stdio.h>
+	<stdlib.h>
+
